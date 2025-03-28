@@ -90,3 +90,51 @@ function resume() {
     "https://drive.google.com/file/d/1TnTM9HBIHJUxVlz9z4O1hXh-B3bIx89-/view?usp=sharing"
   );
 }
+function sixemotion() {
+  open(
+    "https://github.com/Nagasaidhanya/SIX-EMOTIONS-DETECTION-APP.git"
+  );
+}
+
+function sixemotionapp() {
+  open(
+    "https://nagasaidhanya-six-emotions-detection-app-app-svtb42.streamlit.app/"
+  );
+}
+
+
+function summer() {
+  open(
+    "https://github.com/Nagasaidhanya/TEXT-AND-DOCUMENT-SUMMARIZER-USING-STREAMLIT.git"
+  );
+}
+
+function summerapp() {
+  open(
+    "https://nagasaidhanya-text-and-document-summarizer-using-str-app-vvnbsw.streamlit.app/"
+  );
+}
+
+function nitw() {
+  open(
+    "https://drive.google.com/file/d/10_OIoH6jUJX5ZZQNOguYeSxvVoRtMAjk/view?usp=sharing"
+  );
+}
+
+function ibm() {
+  open(
+    "https://drive.google.com/file/d/1gacFZn5O9t6Ssu4HxuoxjAI3npjULEY0/view?usp=sharing"
+  );
+}
+
+
+function aicte() {
+  open(
+    "https://drive.google.com/file/d/1dCDlDYsqFRSTvhgZH-PgOFzGmOx9iPx4/view?usp=sharing"
+  );
+}
+
+
+
+
+

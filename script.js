@@ -87,7 +87,7 @@ function diet() {
 
 function resume() {
   open(
-    "https://drive.google.com/file/d/1WobyACbxysTUM2Y2451u9oRoe68qkonZ/view?usp=sharing"
+    "https://drive.google.com/file/d/1cVRfIaiPQau6qQatWamRxlOJBh9FIVw2/view?usp=sharing"
   );
 }
 function sixemotion() {
